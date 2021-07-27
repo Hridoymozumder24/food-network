@@ -9,17 +9,21 @@ h1{
           display: flex;
           margin-right: 10PX;
           margin-left:40px;
-          margin-bottom: 150px;
+          margin-bottom: 50px;
+          
+}
+.half-width-photo img{
+          width: 80%;
           
 }
 .half-width{
           
           width: 50%;
-          margin-top: 50PX;
+          
 }
 .half-width img{
           
-          width: 100%;
+          width: 50%;
 }
 #orange-color{
           color: orange;
@@ -40,4 +44,8 @@ p{
                     padding: 10px 40px 10px 40px;
                     border-radius: 60px;
   
+}
+.about-me{
+          background-image: url(images/shapes/7.png);
+          background-repeat:no-repeat;
 }
