@@ -25,7 +25,7 @@ h1{
           
           width: 50%;
 }
-#orange-color{
+.orange-color{
           color: orange;
 }
 p{
@@ -77,4 +77,42 @@ p{
       width: 80%;  
       border-radius: 20px; 
       margin-top: 20px;
+}
+.My-Recipies{
+          margin-bottom: 100px;
+}
+#my-mark{
+          display: flex;
+          width: 80%;
+          margin-left: 10%;
+          margin-right: 5%;
+          padding-left: 10px;
+          padding-right: 10px;
+          border-radius: 20px;
+          box-shadow: 30px 50px 50px gray;
+        
+
+}
+
+
+.marking-rule{
+          display: flex;
+}
+footer h1 {
+           font-weight: normal;
+          text-align: center;
+          color: blanchedalmond;
+          
+}
+footer p{
+          text-align: center;
+          color: blanchedalmond;
+}
+footer{
+        
+          background-color: black;
+          
+}
+.my-mark-rule{
+          width: 45%;
 }
